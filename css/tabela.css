@@ -1,0 +1,22 @@
+.tabela {
+	width: 100%;
+	overflow: auto;
+}
+
+.tabela_cabecalho {
+	background-color: #616161;
+    color: white;
+    padding: 1em;
+}
+
+th, td {
+	padding: 1em;
+}
+
+.tabela_corpo {
+	text-align: center;
+}
+
+.tabela_corpo tr:nth-child(2n) {
+	background-color: #f5f5f5;
+}

@@ -1,0 +1,17 @@
+.formulario {
+	margin-top: 3em;
+	margin-bottom: 2em;
+	text-align: center;
+}
+
+.formulario_titulo {
+	font-weight: bold;
+}
+
+.formulario label {
+	display: block;
+}
+
+label, input, button {
+	margin-top: 1em;
+}
